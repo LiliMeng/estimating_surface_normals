@@ -42,5 +42,5 @@ main (int argc, char** argv)
 
   
     return 0;
-  // cloud_normals->points.size () should have the same size as the input cloud->points.size ()*
+  
 }
