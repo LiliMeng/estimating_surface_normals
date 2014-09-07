@@ -9,4 +9,12 @@ estimating_surface_normals
 
          Hopefully it will help if you'd like to try:) 
    Installation and compilation:
-   $ git clone 
+   $ git clone https://github.com/LiliMeng/estimating_surface_normals
+   $ cd estimating_surface_normals 
+   $ mkdir build
+   $ cd build
+   $ cmake ..
+   $ make
+   $ ./estimating_normals 
+   
+   Remember to put your pcd files in the build folder :) 
